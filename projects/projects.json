@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Turbo Racing",
+    "image": "mountainCar",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/Prajwal-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/Prajwal-sable/notystack-android"
+    }
+  },
+  {
+    "name": "Chess",
+    "image": "Chess",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/Prajwal-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/Prajwal-sable/sppu-prep-android"
+    }
+  },
+  {
+    "name": "Kill Hunter",
+    "image": "hunter",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/Prajwal-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/Prajwal-sable/newsbox-android"
+    }
+  },
+  {
+    "name": "Kids Puzzle",
+    "image": "puzzle",
+    "category": "puzzle",
+    "links": {
+      "view": "https://www.linkedin.com/posts/Prajwal-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/Prajwal-sable/weatherly-android"
+    }
+  },
+  {
+    "name": "TPS Playground",
+    "image": "shooter",
+    "category": "shooter",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/Prajwal-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "Recommendation System",
+    "image": "suggestosphere",
+    "category": "Major",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/Prajwal-sable/flipkart-mern"
+    }
+  },
+  {
+    "name": "Crazy Runner",
+    "image": "runner",
+    "category": "casual",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/Prajwal-sable/resumegen"
+    }
+  }
+]
